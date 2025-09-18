@@ -14,21 +14,22 @@ Zomato-Analysis/
 │── README.md
 │── Zomato.xlsx
 │
-├── data/
-│ └── Raw datasets & supporting files
+├── data/                      
+│     └── Raw datasets & supporting files
 │
-├── reports/
-│ └── Zomato_Analysis.pbix # Power BI report
-│ └── Zomato_Analysis.xlsx # Processed Excel file
-│ └── zomato_tableau.twbx # Tableau dashboard (coming soon)
+├── reports/                   
+│     └── Zomato_Analysis.pbix      # Power BI report
+│     └── Zomato_Analysis.xlsx      # Processed Excel file
+│     └── zomato_tableau.twbx       # Tableau dashboard (coming soon)
 │
-├── dashboards/
-│ └── Excel_dash.png
-│ └── PowerBi_dash.png
-│ └── Tableau_dash.png # (coming soon)
+├── dashboards/                
+│     └── Excel_dash.png
+│     └── PowerBi_dash.png
+│     └── Tableau_dash.png          # (coming soon)
 │
-└── sql/
-└── queries.sql # SQL queries & analysis (coming soon)
+└── sql/                        
+      └── queries.sql               # SQL queries & analysis (coming soon)
+
 
 
 ---
@@ -74,12 +75,10 @@ Zomato-Analysis/
 
 Run SQL scripts from the sql/ folder on your DBMS to replicate queries.
 
-🧑‍💻 Author
-
-Firdos Shaik
-📍 Hyderabad, India
-📧 fidduraza9876@gmail.com
-
-🔗 https://www.linkedin.com/in/firdos-shaik-551b4222b/
+## 🧑‍💻 Author
+**Firdos Shaik**  
+📍 Hyderabad, India  
+📧 fidduraza9876@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/firdos-shaik-551b4222b/)  
 
 If you find this project helpful, please ⭐ the repo!
