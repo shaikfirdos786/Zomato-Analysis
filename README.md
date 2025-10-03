@@ -60,7 +60,7 @@ Zomato-Analysis/
 ![Power BI Dashboard](dashboards/PowerBi_dash.png)  
 
 ### Tableau Dashboard *(coming soon)*  
-![Tableau Dashboard](dashboards/Tableau_dash.png)  
+![Tableau Dashboard](dashboards/Tableau_dash.jpg)  
 
 ---
 
